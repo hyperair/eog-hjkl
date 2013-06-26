@@ -55,7 +55,6 @@ class HJklPlugin(GObject.Object, Eog.WindowActivatable):
     def do_activate(self):
         self.evtcookie = self.view.connect('key-press-event',
                                            self.handle_scroll)
-        print self.evtcookie
 
     def do_deactivate(self):
         self.view.disconnect(self.evtcookie)
