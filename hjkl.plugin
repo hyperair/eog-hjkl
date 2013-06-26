@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python
+Module=hjkl
+IAge=2
+Loader=python
+Name=hjkl
+Icon=hjkl
+Description=Allows for panning the image using hjkl keys ala Vi
+Authors=Chow Loong Jin <hyperair@debian.org>
+Copyright=Copyright © 2013 Chow Loong Jin <hyperair@debian.org>
+Website=https://github.com/hyperair/eog-hjkl
