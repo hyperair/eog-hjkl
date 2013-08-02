@@ -4,7 +4,7 @@ Hjkl plugin for Eye of GNOME
 Introduction
 ------------
 
-This plugins was developed to allow Vi-style hjkl keys to be used for panning
+This plugin was developed to allow Vi-style hjkl keys to be used for panning
 images in the Eye of GNOME image viewer.
 
 
